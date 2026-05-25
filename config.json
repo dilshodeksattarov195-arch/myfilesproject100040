@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchsalculate",
+        "uuid": 366680,
+        "checksum": "iwpusb"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
